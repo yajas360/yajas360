@@ -52,21 +52,21 @@ I'm a second-year student at **Scaler School of Technology**, also pursuing the 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yajas360&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yajas360&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yajas360&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
 ### 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yajas360&theme=tokyo-night&hide_border=true)
 
 ---
 
